@@ -1,0 +1,36 @@
+body {
+    background-image: url('dark_wood.png');
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(227, 240, 46);
+    border: solid 8px rgb(78, 8, 105);
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    float: left;
+}
+
+fieldset {
+    font-size: 25px;
+    background-color: rgb(173, 124, 206);
+    color: white;
+    margin-bottom: 20px;
+}
+
+legend {
+    font-size: 35px;
+    font-weight: bold;
+    color:rgb(227, 240, 46);
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+
